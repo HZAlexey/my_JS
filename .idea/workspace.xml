@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68ea4eff-3f61-47c8-b5a2-456347c1249b" name="Default Changelist" comment="commit 2">
-      <change beforePath="$PROJECT_DIR$/Tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_JS.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_JS.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604153230539</updated>
       <workItem from="1604153231677" duration="4166000" />
-      <workItem from="1604159108639" duration="5775000" />
+      <workItem from="1604159108639" duration="6179000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1604153362358</created>
