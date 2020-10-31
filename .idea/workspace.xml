@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68ea4eff-3f61-47c8-b5a2-456347c1249b" name="Default Changelist" comment="commit 2">
+      <change beforePath="$PROJECT_DIR$/Tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1je8Wj0hwFDahtWMFsOyeo1Dkz8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="/usr/local/lib/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68ea4eff-3f61-47c8-b5a2-456347c1249b" name="Default Changelist" comment="" />
+      <created>1604153230539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604153230539</updated>
+      <workItem from="1604153231677" duration="4166000" />
+      <workItem from="1604159108639" duration="5775000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1604153362358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604153362358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ESlint commit">
+      <created>1604155047526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604155047526</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 2">
+      <created>1604158187290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604158187290</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="ESlint commit" />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="174" key="#ESLint" timestamp="1604158780909">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="451" y="174" key="#ESLint/0.23.1440.813/1440.23.1600.877@0.23.1440.813" timestamp="1604158780909" />
+    <state x="445" y="260" key="#Notifications" timestamp="1604155115801">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="445" y="260" key="#Notifications/0.23.1440.813/1440.23.1600.877@0.23.1440.813" timestamp="1604155115801" />
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604164318249">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.813/1440.23.1600.877@0.23.1440.813" timestamp="1604164318249" />
+    <state x="230" y="95" key="SettingsEditor" timestamp="1604165264375">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="230" y="95" key="SettingsEditor/0.23.1440.813/1440.23.1600.877@0.23.1440.813" timestamp="1604165264375" />
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2" timestamp="1604158189127">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.813/1440.23.1600.877@0.23.1440.813" timestamp="1604158189127" />
+    <state x="385" y="195" key="run.anything.popup" timestamp="1604163638517">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="385" y="195" key="run.anything.popup/0.23.1440.813/1440.23.1600.877@0.23.1440.813" timestamp="1604163638517" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
