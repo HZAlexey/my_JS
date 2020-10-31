@@ -1,0 +1,23 @@
+{
+  "name": "my_js",
+  "version": "1.0.0",
+  "description": "My work in JS school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HZAlexey/my_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HZAlexey/my_JS/issues"
+  },
+  "homepage": "https://github.com/HZAlexey/my_JS#readme",
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-plugin-react": "^7.21.5"
+  }
+}
